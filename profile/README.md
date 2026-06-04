@@ -54,8 +54,9 @@ The current methodology emphasizes:
 
 ## Current Workspaces
 
-The active repositories are private while the artifacts are being organized and
-hardened. The current internal workspaces are:
+The active repositories are public research workspaces. They are shared for
+inspection, reproducibility, and external review, not as claims that the full
+program has been proved.
 
 - `finite-capacity`: the core Paper 1 workspace for finite-capacity
   causal-network emergence. It is not a physical proof that nature uses this
@@ -64,6 +65,8 @@ hardened. The current internal workspaces are:
   higher-dimensional geometry recovery. It is currently a non-promoting
   skeleton with open proof obligations.
 - `.github`: the public organization profile and related coordination text.
+- `unifed-field-theory-codex`: the macro-level Codex workspace pattern for
+  navigating the research repos together.
 
 ## Roadmap
 
