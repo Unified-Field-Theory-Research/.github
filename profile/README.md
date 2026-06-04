@@ -58,14 +58,14 @@ The active repositories are public research workspaces. They are shared for
 inspection, reproducibility, and external review, not as claims that the full
 program has been proved.
 
-- `finite-capacity`: the core Paper 1 workspace for finite-capacity
+- `finite-capacity-causal-geometry`: the core Paper 1 workspace for finite-capacity
   causal-network emergence. It is not a physical proof that nature uses this
   substrate.
-- `higher-dimensional-geometry`: the downstream Paper 2 workspace for
+- `higher-dimensional-geometry-recovery`: the downstream Paper 2 workspace for
   higher-dimensional geometry recovery. It is currently a non-promoting
   skeleton with open proof obligations.
 - `.github`: the public organization profile and related coordination text.
-- `unifed-field-theory-codex`: the macro-level Codex workspace pattern for
+- `unified-field-theory-codex`: the macro-level Codex workspace pattern for
   navigating the research repos together.
 
 ## Roadmap
