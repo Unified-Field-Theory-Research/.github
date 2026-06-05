@@ -58,12 +58,31 @@ The active repositories are public research workspaces. They are shared for
 inspection, reproducibility, and external review, not as claims that the full
 program has been proved.
 
-- `finite-capacity-causal-geometry`: the core Paper 1 workspace for finite-capacity
-  causal-network emergence. It is not a physical proof that nature uses this
-  substrate.
-- `higher-dimensional-geometry-recovery`: the downstream Paper 2 workspace for
-  higher-dimensional geometry recovery. It is currently a non-promoting
-  skeleton with open proof obligations.
+- `finite-capacity-causal-geometry`: Paper 1, internal conditional emergence.
+- `higher-dimensional-geometry-recovery`: Paper 2, higher-dimensional geometry
+  recovery.
+- `curvature-from-finite-capacity-causal-networks`: Paper 3, curvature
+  recovery.
+- `gravitational-dynamics-from-finite-capacity-causal-networks`: Paper 4,
+  gravitational dynamics.
+- `quantum-compatible-local-dynamics-from-finite-capacity-causal-networks`:
+  Paper 5, quantum-compatible local dynamics.
+- `matter-gauge-observables-from-finite-capacity-causal-networks`: Paper 6,
+  matter/gauge observables.
+- `particle-excitation-observables-from-finite-capacity-causal-networks`:
+  Paper 7, particle-excitation observables.
+- `standard-model-candidate-observables-from-finite-capacity-causal-networks`:
+  Paper 8, Standard-Model-candidate observables.
+- `observed-catalog-comparison-observables-from-finite-capacity-causal-networks`:
+  Paper 9, observed-catalog comparison observables.
+- `external-evidence-manifest-from-finite-capacity-causal-networks`: Paper 10,
+  external evidence manifests.
+- `external-validation-readout-from-finite-capacity-causal-networks`: Paper 11,
+  external validation readouts.
+- `physical-promotion-gate-from-finite-capacity-causal-networks`: Paper 12,
+  physical-promotion gates.
+- `external-physical-evidence-intake-from-finite-capacity-causal-networks`:
+  Paper 13, external physical evidence intake.
 - `.github`: the public organization profile and related coordination text.
 - `unified-field-theory-codex`: the macro-level Codex workspace pattern for
   navigating the research repos together.
@@ -75,37 +94,47 @@ an announcement that the target has already been achieved.
 
 1. **Internal Conditional Emergence Theorem:** maintain the core
    finite-capacity causal-network theorem target and its claim boundary.
-2. **Higher-Dimensional Geometry Recovery:** define admissible
-   higher-dimensional network classes and recover dimension, causal cones,
-   isotropy, and metric-like observables without a hidden continuum premise.
-3. **Curvature From Finite-Capacity Causal Networks:** define intrinsic
-   curvature-like observables and test whether coarse-grained curvature can
-   emerge from finite local structure.
-4. **Einstein-Limit Or Gravitational Field-Law Recovery:** look for a narrow
-   gravitational limit, such as Newtonian, weak-field, redshift, light-bending,
-   or Einstein-like behavior in a stated regime.
+2. **Higher-Dimensional Geometry Recovery:** recover finite higher-dimensional
+   geometry observables without a hidden continuum premise.
+3. **Curvature From Finite-Capacity Causal Networks:** recover intrinsic
+   curvature-like observables from finite local structure.
+4. **Gravitational Dynamics From Finite-Capacity Causal Networks:** define
+   network-native gravitational dynamics or field-law analogues.
 5. **Quantum-Compatible Local Dynamics:** extend the update framework toward
    quantum-compatible local dynamics while preserving finite capacity,
    locality, bounded transfer, and no-signaling.
-6. **Free Matter And Field Excitations:** test whether particle-like or
-   field-like excitations arise from the substrate rather than being added as
-   external labels.
-7. **Gauge Symmetry From Local Redundancy Or Update Invariance:** investigate
-   gauge-like structure from intrinsic equivalences or update invariances.
-8. **Matter-Geometry Coupling:** test whether emergent fields can back-react on
-   emergent geometry through a network-native source or conservation law.
-9. **Standard Model Sector Attempt:** investigate whether recognizable charge,
-   spin, chirality, interaction, and consistency structures can be recovered.
-10. **Cosmology, Horizons, And Black-Hole Limits:** test large-scale regimes,
-    causal boundaries, entropy-like behavior, and singularity handling.
-11. **Discriminating Predictions And Benchmarks:** identify reproducible
-    outcomes that differ from existing continuum and discrete approaches.
-12. **Unified Field Theory Synthesis:** only after the earlier inputs close,
-    synthesize the framework as a candidate unified field theory.
+6. **Matter/Gauge Observables:** define matter and gauge observable interfaces
+   without importing physical fields.
+7. **Particle-Excitation Observables:** define finite particle-excitation
+   observable interfaces without claiming physical particle recovery.
+8. **Standard-Model-Candidate Observables:** define candidate observable
+   interfaces without claiming Standard Model recovery.
+9. **Observed-Catalog Comparison Observables:** define finite observed-catalog
+   comparison observables without claiming observed-catalog recovery.
+10. **External Evidence Manifests:** define finite external evidence manifest
+    interfaces without claiming validation.
+11. **External Validation Readouts:** define finite validation readout
+    interfaces without claiming physical validation.
+12. **Physical-Promotion Gates:** define finite physical-promotion gate
+    structure without closing physical promotion.
+13. **External Physical Evidence Intake:** define finite external physical
+    evidence intake records downstream of the Paper 12 gate.
+14. **Discriminating Benchmarks:** define benchmarks that could distinguish
+    the program from continuum or other discrete approaches.
+15. **Prediction And Falsification Protocols:** define explicit prediction,
+    falsification, and rejection workflows.
+16. **External Review And Reproduction Certificates:** organize independent
+    review, reproduction, and artifact certificates.
+17. **Physical Promotion Attempt:** attempt physical promotion only if the
+    external evidence and review gates support it.
+18. **Unified Field Theory Candidate Synthesis:** synthesize a candidate only
+    after the required conditional, external, and promotion gates close.
 
-The immediate scientific next step is Paper 2: define the first admissible
-higher-dimensional finite-capacity network class and the intrinsic observables
-that would certify higher-dimensional spacetime-like recovery.
+The immediate scientific next step is Paper 13, `EPEI-002`: define finite
+external physical evidence intake records as bounded, auditable, non-promoting
+interface rows. Papers 1-12 are closed as internal conditional theorem
+packages only; physical promotion, physical validation, empirical adequacy,
+physical nature realization, and unified-field promotion remain unproved.
 
 ## Claim Boundary
 
@@ -118,8 +147,9 @@ As of now, this organization does not claim:
 
 - a completed unified field theory;
 - a physical proof that nature uses finite-capacity causal networks;
-- recovered Einstein dynamics, matter fields, gauge fields, or quantum
-  dynamics;
+- physical promotion, physical validation, or empirical adequacy;
+- recovered observed particle catalogs, physical Standard Model content,
+  physical matter fields, physical gauge fields, or physical quantum dynamics;
 - peer-reviewed validation of the full program.
 
 The intended standard is simple: ambitious goals are allowed, but claims should
