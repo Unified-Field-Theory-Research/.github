@@ -91,6 +91,8 @@ program has been proved.
   Paper 16, external review and reproduction certificates.
 - `physical-promotion-attempt-from-finite-capacity-causal-networks`: Paper 17,
   physical promotion attempt.
+- `unified-field-theory-candidate-synthesis-from-finite-capacity-causal-networks`:
+  Paper 18, unified field theory candidate synthesis.
 - `.github`: the public organization profile and related coordination text.
 - `unified-field-theory-codex`: the macro-level Codex workspace pattern for
   navigating the research repos together.
@@ -138,13 +140,14 @@ an announcement that the target has already been achieved.
 18. **Unified Field Theory Candidate Synthesis:** synthesize a candidate only
     after the required conditional, external, and promotion gates close.
 
-The immediate scientific next step is Paper 17, `PPA-002`: define finite
-physical-promotion attempt records as bounded, auditable, non-promoting
-interface rows. Papers 1-16 are closed as internal conditional theorem packages
-only; physical promotion attempt success, physical promotion, physical
+The immediate scientific next step is Paper 18, `UFTS-002`: define finite
+unified-field-theory candidate synthesis records as bounded, auditable,
+non-promoting interface rows. Papers 1-17 are closed as internal conditional
+theorem packages only; candidate synthesis success, completed unified field
+theory, physical promotion attempt success, physical promotion, physical
 validation, empirical adequacy, review acceptance, reproduction success,
-benchmark success, prediction success, falsification success, physical nature
-realization, and unified-field promotion remain unproved.
+benchmark success, prediction success, falsification success, and physical
+nature realization remain unproved.
 
 ## Claim Boundary
 
@@ -157,8 +160,8 @@ As of now, this organization does not claim:
 
 - a completed unified field theory;
 - a physical proof that nature uses finite-capacity causal networks;
-- physical promotion attempt success, physical promotion, physical validation,
-  or empirical adequacy;
+- candidate synthesis success, physical promotion attempt success, physical
+  promotion, physical validation, or empirical adequacy;
 - recovered observed particle catalogs, physical Standard Model content,
   physical matter fields, physical gauge fields, or physical quantum dynamics;
 - peer-reviewed validation of the full program.
