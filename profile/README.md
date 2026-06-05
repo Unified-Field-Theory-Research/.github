@@ -85,6 +85,8 @@ program has been proved.
   Paper 13, external physical evidence intake.
 - `discriminating-benchmarks-from-finite-capacity-causal-networks`: Paper 14,
   discriminating benchmarks.
+- `prediction-and-falsification-protocols-from-finite-capacity-causal-networks`:
+  Paper 15, prediction and falsification protocols.
 - `.github`: the public organization profile and related coordination text.
 - `unified-field-theory-codex`: the macro-level Codex workspace pattern for
   navigating the research repos together.
@@ -132,12 +134,13 @@ an announcement that the target has already been achieved.
 18. **Unified Field Theory Candidate Synthesis:** synthesize a candidate only
     after the required conditional, external, and promotion gates close.
 
-The immediate scientific next step is Paper 14, `DBM-002`: define finite
-discriminating benchmark records as bounded, auditable, non-promoting
-interface rows. Papers 1-13 are closed as internal conditional theorem
-packages only; physical promotion, physical validation, empirical adequacy,
-benchmark success, prediction success, falsification success, physical nature
-realization, and unified-field promotion remain unproved.
+The immediate scientific next step is Paper 15, `PFP-002`: define finite
+prediction-and-falsification protocol records as bounded, auditable,
+non-promoting interface rows. Papers 1-14 are closed as internal conditional
+theorem packages only; physical promotion, physical validation, empirical
+adequacy, protocol recovery, benchmark success, prediction success,
+falsification success, physical nature realization, and unified-field
+promotion remain unproved.
 
 ## Claim Boundary
 
