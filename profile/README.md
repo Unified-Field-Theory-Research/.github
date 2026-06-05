@@ -83,6 +83,8 @@ program has been proved.
   physical-promotion gates.
 - `external-physical-evidence-intake-from-finite-capacity-causal-networks`:
   Paper 13, external physical evidence intake.
+- `discriminating-benchmarks-from-finite-capacity-causal-networks`: Paper 14,
+  discriminating benchmarks.
 - `.github`: the public organization profile and related coordination text.
 - `unified-field-theory-codex`: the macro-level Codex workspace pattern for
   navigating the research repos together.
@@ -130,11 +132,12 @@ an announcement that the target has already been achieved.
 18. **Unified Field Theory Candidate Synthesis:** synthesize a candidate only
     after the required conditional, external, and promotion gates close.
 
-The immediate scientific next step is Paper 13, `EPEI-002`: define finite
-external physical evidence intake records as bounded, auditable, non-promoting
-interface rows. Papers 1-12 are closed as internal conditional theorem
+The immediate scientific next step is Paper 14, `DBM-002`: define finite
+discriminating benchmark records as bounded, auditable, non-promoting
+interface rows. Papers 1-13 are closed as internal conditional theorem
 packages only; physical promotion, physical validation, empirical adequacy,
-physical nature realization, and unified-field promotion remain unproved.
+benchmark success, prediction success, falsification success, physical nature
+realization, and unified-field promotion remain unproved.
 
 ## Claim Boundary
 
